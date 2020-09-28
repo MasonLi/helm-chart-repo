@@ -100,9 +100,6 @@ storage:
   metad:
     size: 20Gi 
 
-nodeSelector: 
-  nebula: "yes"
-
 tolerations: []
 
 affinity: {}
