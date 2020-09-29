@@ -94,7 +94,7 @@ MetadHosts:
 
 ## Storage Setting of Nebula-Metad and Nebula-Storaged
 storage:
-  storageClass: fast-disks
+  storageClass: cbs-ssd
   storaged:
     size: 20Gi 
   metad:
