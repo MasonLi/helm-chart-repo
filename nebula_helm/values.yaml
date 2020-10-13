@@ -1,5 +1,5 @@
 # specify kubernetes namespace
-namespace: default 
+namespace: ns-prjmwzxt-1322095-production 
 
 # the nebula images
 image:
